@@ -1,0 +1,29 @@
+.header
+	{
+		width:1000px;
+		height:200px;
+		border:2px solid #000;
+	}
+	.contain
+	{
+		width:1000px;
+		height:800px;
+		border:2px solid #000;
+	}
+	.contain_left
+	{
+		width:300px;
+		float:left;
+		border:2px solid #000;
+		
+	}
+	.contain_right{
+		width:690px;
+		float:right;
+		border:2px solid #000;
+	}
+	.footer{
+		width:1000px;
+		height:200px;
+		border:2px solid #000;
+	}
